@@ -81,7 +81,12 @@ body{
   visibility: hidden;
   transition: all 0.2s;
 }
+@media only screen and (max-width: 600px) {
+	.nav-list{
+		top:25%;
+	}
 
+}
 .change .nav-list {
   opacity: 1;
   visibility: visible;
