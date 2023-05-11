@@ -494,7 +494,7 @@ button {
  
   border-radius: 15px;
   width: 35%;
-  background:url(./assets/images/contact-bg.jpg) center no-repeat;
+  background:url(/assets/images/contact-bg.jpg) center no-repeat;
   background-size: cover;
 }
 
